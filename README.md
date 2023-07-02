@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hello!! welcome to my README file. I'm Leondre but usually go by "Dre" and i'm a passionate data analyst currenlty working at Amazon. I have ambitious aspirations to expand my skill set, explore new data analysis methodologies and contribute to solutions that drive business growth.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmcmillion3)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **dmcmillion3/dmcmillion3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
