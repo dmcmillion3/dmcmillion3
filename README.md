@@ -4,7 +4,7 @@
 # Hi there 👋, I'm Leondre McMillion
 Hello!! welcome to my README file. I'm Leondre but usually go by "Dre" and I'm a passionate data analyst currenlty working at Amazon. I have ambitious aspirations to expand my skill set, explore new data analysis methodologies and contribute to solutions that drive business growth.
 
-##Skills and Experience
+#Skills and Experience
 -  💻 Skills: Excel / R / Python / SQL / Tableau
 -  🔭 I’m currently working on this page. 
 
